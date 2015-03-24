@@ -4,6 +4,8 @@
 
 AntennaPod SP is a modified version of AntennaPod which lets podcasters build *single-purpose apps* for their podcast(s).
 
+This project was forked from the original at [danieloeh/AntennaPodSP](https://github.com/danieloeh/AntennaPodSP/).
+
 ## What is a single-purpose app?
 
 A single-purpose app is an app that lets the user only do one thing: Listen to a preset list of podcasts. There is absolutely *no* setup or configuration process. As soon as the user starts the app, a list of episodes is presented that can be downloaded and listened to.
@@ -51,15 +53,11 @@ So far, the app for listening to the [Einschlafen Podcast](http://einschlafen-po
 ## How do i build an app for my podcasts that is based on AntennaPod SP?
 
 
-Basically, you need to fork this repository, install an Android SDK, modify two configuration files to enter your feeds and the name of your podcast, and add icons and assets for your app. A detailed guide on how to build your very own single-purpose app can be found in the [Wiki](https://github.com/danieloeh/AntennaPodSP/wiki/Building-AntennaPod-SP).
+Basically, you need to fork this repository, install an Android SDK, modify two configuration files to enter your feeds and the name of your podcast, and add icons and assets for your app. A detailed guide on how to build your very own single-purpose app can be found in the [Wiki](https://github.com/dgaxiola/AntennaPodSP/wiki/Building-AntennaPod-SP).
 
 
 ## License
 
 AntennaPod SP is licensed under the MIT License. You can find the license text in the LICENSE file.
 
-
-## Donate
-  
-Bitcoin donations can be sent to this address: <pre>1DzvtuvdW8VhDsq9GUytMyALmsHeaHEKbg</pre>
 
